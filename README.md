@@ -1,6 +1,6 @@
 # Phân tích đặc tả yêu cầu phần mềm cho hệ thống bán giày thể thao Anta
 
-![alt text](image.png)
+![alt text](images/logos.png)
 
 ## 📋 Tổng quan
 Dự án phân tích đặc tả yêu cầu phần mềm hệ thống bán giày thể thao Anta.
